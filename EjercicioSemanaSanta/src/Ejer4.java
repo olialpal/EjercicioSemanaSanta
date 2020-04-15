@@ -7,7 +7,7 @@ public class Ejer4 {
         int n=2;
         int x=6;
         if (n<x){
-            System.out.println("El primer número es más pequeño que el segundo");
+            System.out.println("Soy el cambio que crea conflicto en el primer ambiente");
         }
             else {
             System.out.println("Soy el cambio en este nuevo workspace");
