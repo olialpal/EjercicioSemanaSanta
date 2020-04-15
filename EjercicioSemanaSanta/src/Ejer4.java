@@ -10,6 +10,6 @@ public class Ejer4 {
             System.out.println("El primer número es más pequeño que el segundo");
         }
             else {
-            System.out.println("El segundo número es más grande que el primero o no");
+            System.out.println("Soy el cambio en este nuevo workspace");
         }
     }}
